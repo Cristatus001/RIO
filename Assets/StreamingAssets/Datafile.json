@@ -1,0 +1,804 @@
+{
+    "organisms": [
+        {
+            "name": "Fowl",
+            "type": "sexual",
+            "image": "Hen.png",
+            "id": 1,
+            "question": "How can you tell that sexual reproduction takes place in fowls?",
+            "options": [
+                "They are aerial organisms",
+                "They are large sized",
+                "Their reproduction involves two parents",
+                "They are free living organisms"
+            ],
+            "correctOption": 2,
+            "correctImage": "ChickenFind.png",
+            "semifinalImage": "ChickenInfo.png",
+            "finalImage": "ChickenInfo.png",
+            "finalText": "Reproduction in fowls begin from the fusion of male and female gametes. Hence, they undergo sexual reproduction.",
+            "imageGrid": [
+                {
+                    "image": "Card_Amoeba_1.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_2.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Elephant_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hen_chick.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hen_eggs.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hen_female.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hen_male.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Human_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_silkworm.png",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "name": "Elephant",
+            "type": "sexual",
+            "image": "Elephant.png",
+            "id": 2,
+            "question": "How can you tell that sexual reproduction takes place in Elephant?",
+            "options": [
+                "They are terrestrial organisms",
+                "Their reproduction involves two parents",
+                "They are large sized",
+                "They reside in forests"
+            ],
+            "correctOption": 1,
+            "correctImage": "ElephantFind.png",
+            "semifinalImage": "ElephantInfo.png",
+            "finalImage": "ElephantInfo.png",
+            "finalText": "Reproduction in elephants begin from the fusion of male and female gametes. Hence, they undergo SEXUAL REPRODUCTION.",
+            "imageGrid": [
+                {
+                    "image": "Card_Amoeba_1.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Elephant_female.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Elephant_male.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Elephant_offspring.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hen_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Human_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Human_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_silkworm.png",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "name": "Bacteria",
+            "type": "asexual",
+            "image": "Bacteria.png",
+            "id": 3,
+            "question": "How can you tell that asexual reproduction takes place in Bacteria?",
+            "options": [
+                "They are aquatic organisms",
+                "Their reproduction involves a single parent",
+                "They have nucleoid instead of nucleus",
+                "Their reproduction involves fusion of gametes"
+            ],
+            "correctOption": 1,
+            "correctImage": "BacteriaFind.png",
+            "semifinalImage": "BacteriaInfo.png",
+            "finalImage": "BacteriaInfo.png",
+            "finalText": "Reproduction in prokaryotes like bacteria involves only a single parent. Hence, they undergo asexual reproduction.",
+            "imageGrid": [
+                {
+                    "image": "Card_Amoeba_1.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_2.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_1.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_3.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Elephant_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hen_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hen_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Human_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_silkworm.png",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "name": "Silkmoth",
+            "type": "sexual",
+            "image": "Silkmoth.png",
+            "id": 4,
+            "question": "How can you tell that sexual reproduction takes place in Silkmoth?",
+            "options": [
+                "They are insects",
+                "They have complicated life cycle",
+                "Their reproduction involves two parents",
+                "They can be cultured domestically"
+            ],
+            "correctOption": 2,
+            "correctImage": "SilkWormFind.png",
+            "semifinalImage": "SilkWormInfo.png",
+            "finalImage": "SilkWormInfo.png",
+            "finalText": "Reproduction in insects like silk moths begin from the fusion of male and female gametes. Hence, they undergo sexual reproduction.",
+            "imageGrid": [
+                {
+                    "image": "Card_Amoeba_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_pupa.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_male.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Elephant_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_tadpole.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hen_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Silkmoth_female.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Silkmoth_silkworm.png",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "name": "Frog",
+            "type": "sexual",
+            "image": "Frog.png",
+            "id": 5,
+            "question": "How can you tell that sexual reproduction takes place in Frog?",
+            "options": [
+                "They are amphibians",
+                "Their reproduction involves two parents",
+                "They lay gelatinous eggs",
+                "They are hermaphrodites"
+            ],
+            "correctOption": 1,
+            "correctImage": "FrogFind.png",
+            "semifinalImage": "FrogInfo.png",
+            "finalImage": "FrogInfo.png",
+            "finalText": "Reproduction in amphibians like frogs begin from the fusion of male and female gametes. Hence, they undergo sexual reproduction.",
+            "imageGrid": [
+                {
+                    "image": "Card_Hen_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_2.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Frog_eggs.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Frog_male.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Frog_tadpole.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Frog_tailed.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Human_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_pupa.png",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "name": "Jackal",
+            "type": "sexual",
+            "image": "Jackal.png",
+            "id": 6,
+            "question": "How can you tell that sexual reproduction takes place in Jackal?",
+            "options": [
+                "They require only a single parent for reproduction",
+                "They are forest dwellers",
+                "They give birth to young ones",
+                "Their reproduction involves two parents"
+            ],
+            "correctOption": 3,
+            "correctImage": "JackalFind.png",
+            "semifinalImage": "JackalInfo.png",
+            "finalImage": "JackalInfo.png",
+            "finalText": "Reproduction in jackals begin from the fusion of male and female gametes. Hence, they undergo sexual reproduction.",
+            "imageGrid": [
+                {
+                    "image": "Card_Amoeba_1.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_2.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Elephant_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_female.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hen_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_offspring.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hen_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Human_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_male.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_silkworm.png",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "name": "Human",
+            "type": "sexual",
+            "image": "Human.png",
+            "id": 7,
+            "question": "How can you tell that sexual reproduction takes place in Human?",
+            "options": [
+                "They can live both on land and water",
+                "They have complicated life cycle",
+                "They lay eggs",
+                "Their reproduction involves two parents"
+            ],
+            "correctOption": 3,
+            "correctImage": "HumanFind.png",
+            "semifinalImage": "HumanInfo.png",
+            "finalImage": "HumanInfo.png",
+            "finalText": "Reproduction in human begins from the fusion of male and female gametes. Hence, they undergo SEXUAL REPRODUCTION.",
+            "imageGrid": [
+                {
+                    "image": "Card_Amoeba_1.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_2.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Elephant_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Human_female.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Human_male.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hen_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hen_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Human_offspring.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_silkworm.png",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "name": "Hydra",
+            "type": "asexual",
+            "image": "Hydra.png",
+            "id": 8,
+            "question": "How can you tell that asexual reproduction takes place in Hydra?",
+            "options": [
+                "They are ocean dwellers",
+                "They are unicellular organisms",
+                "Their reproduction involves a single parent",
+                "Their reproduction involves two parents"
+            ],
+            "correctOption": 2,
+            "correctImage": "HydraFind.png",
+            "semifinalImage": "HydraInfo.png",
+            "finalImage": "HydraInfo.png",
+            "finalText": "Reproduction in hydra involves only one parent. Hence, they undergo asexual reproduction.",
+            "imageGrid": [
+                {
+                    "image": "Card_Amoeba_1.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_2.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Elephant_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_1.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hydra_2.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hen_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_4.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Human_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Jackal_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_silkworm.png",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "name": "Cat",
+            "type": "sexual",
+            "image": "Cat.png",
+            "id": 9,
+            "question": "How can you tell that sexual reproduction takes place in Cat?",
+            "options": [
+                "They are terrestrial organisms",
+                "They are viviparous animals",
+                "They are oviparous animals",
+                "Their reproduction involves two parents"
+            ],
+            "correctOption": 3,
+            "correctImage": "CatFind.png",
+            "semifinalImage": "CatInfo.png",
+            "finalImage": "CatInfo.png",
+            "finalText": "Reproduction in cat begins from the fusion of male and female gametes. Hence, they undergo SEXUAL REPRODUCTION.",
+            "imageGrid": [
+                {
+                    "image": "Card_Amoeba_1.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Bacteria_2.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_tadpole.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Elephant_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Cat_male.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Cat_offspring.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Hen_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Human_offspring.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_silkworm.png",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "name": "Amoeba",
+            "type": "asexual",
+            "image": "Amoeba.png",
+            "id": 10,
+            "question": "How can you tell that asexual reproduction takes place in Amoeba?",
+            "options": [
+                "They are unicellular organisms",
+                "They are eukaryotes",
+                "Their reproduction involves a single parent",
+                "They are aquatic in nature"
+            ],
+            "correctOption": 2,
+            "correctImage": "AmoebaFind.png",
+            "semifinalImage": "AmoebaInfo.png",
+            "finalImage": "AmoebaInfo.png",
+            "finalText": "Reproduction in protozoans like amoeba involves only a single parent. Hence, they undergo asexual reproduction.",
+            "imageGrid": [
+                {
+                    "image": "Card_Amoeba_1.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Bacteria_2.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Elephant_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Frog_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Amoeba_2.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Amoeba_3.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "Card_Frog_tadpole.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hen_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Cat_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Hydra_3.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Jackal_male.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_eggs.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_female.png",
+                    "isCorrect": false
+                },
+                {
+                    "image": "Card_Silkmoth_silkworm.png",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}
